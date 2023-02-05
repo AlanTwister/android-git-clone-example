@@ -1,6 +1,6 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - *Gleb`s repository*
+Этот репозиторий - *Gleb`s repository!*
 
 ## Как этим пользоваться?
 
